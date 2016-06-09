@@ -1,0 +1,43 @@
+body {
+	font-family: arial;
+	font-size: 12px;
+	font-color: black;
+	background: white;
+}
+.startlist {
+	border: 10px;
+	border-color: #dddddd;
+	padding: 10px;
+	background-color: #bbbbbb;
+}
+.flag {
+	width: 90px;
+	height: 80px;
+	float: left;
+	border-left: 10px;
+}
+.break {
+	clear: both;
+}
+.dictInfo {
+	background-color: #444444;
+	color: #eeeeee;
+	padding: 10px;
+	border-color: #222222;
+	border: 10px;
+}
+.input-de,
+.input-en,
+.input-pl,
+.input-ru {
+	font-size: 1.5em;
+	background-color: #dddddd;
+	font-style: bold;
+	padding: 5px;
+}
+.input-de img,
+.input-en img,
+.input-pl img,
+.input-ru img {
+	height: 20px;
+}
